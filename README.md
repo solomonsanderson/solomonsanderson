@@ -1,5 +1,5 @@
 <h2 align = "center"> Hello there!👋</h2>
-<p align = 'center'> I'm currently a 1st year Physics undergraduate at the University of Birmingham. I primarily write Python,  both as part of my degree and as a hobby. </p>
+<p align = 'center'> I'm currently a 1st year Physics undergraduate at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
 
 
 <!--

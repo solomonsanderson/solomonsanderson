@@ -1,6 +1,8 @@
 <h2 align = "center"> Hello there!👋</h2>
 <p align = 'center'> I'm currently a 2nd year Physics undergraduate at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
 
+- 🔭 I’m currently working on a dashoard for visualising Covid-19 data using Python.
+- 👯 I’m looking for an internship in a quantitative field which wil utilise my numerical and analytical skills.
 
 <!--
 **solomonsanderson/solomonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=solomonsanderson" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=solomonsanderson" />
--->
+

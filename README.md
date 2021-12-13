@@ -2,7 +2,7 @@
 <p align = 'center'> I'm currently a 2nd year Physics undergraduate at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
 
 - 🔭 I’m currently working on a dashoard for visualising Covid-19 data using Python.
-- 👯 I’m looking for an internship in a quantitative field which wil utilise my numerical and analytical skills.
+- 👯 I’m looking for an internship in a quantitative field which will utilise my numerical and analytical skills.
 
 <!--
 **solomonsanderson/solomonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

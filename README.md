@@ -1,7 +1,7 @@
 <h2 align = "center"> Hello there!👋</h2>
 <p align = 'center'> I'm currently a 2nd year Physics undergraduate at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
 
-- 🔭 I’m currently working on a dashoard for visualising Covid-19 data using Python.
+- 🔭 I’m currently working with ATLAS data from the CERN LHC to find Higgs Bosons.
 - 👯 I’m looking for an internship in a quantitative field which will utilise my numerical and analytical skills.
 
 <!--

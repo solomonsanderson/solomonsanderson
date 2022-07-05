@@ -1,8 +1,8 @@
 <h2 align = "center"> Hello there!👋</h2>
 <p align = 'center'> I'm currently a 2nd year Physics undergraduate at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
 
-- 🔭 I’m currently working with ATLAS data from the CERN LHC to find Higgs Bosons.
-- 👯 I’m looking for an internship in a quantitative field which will utilise my numerical and analytical skills.
+- 🔭 I’m currently working as an intern at the University of Birmingham branch of the UK Quantum Technology Hub to make a magneto-optical trap.
+- 🌱 I’m currently learning c++
 
 <!--
 **solomonsanderson/solomonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

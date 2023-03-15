@@ -4,7 +4,7 @@ Over the summer of 2022 I worked as a summer research intern for the Quantum Tec
 
 - 🔭 I’m currently working on a particle physics project as part of my 3rd Year Computing labs.
 - 🌱 I’m currently learning how to make a control panel using JS, HTML and CSS.
-- 💬 Ask me about Quantum Physics, Atomic Physics and Atom Trapping!
+- 💬 Ask me about Python, C++, Atomic Physics and Atom Trapping!
 - 📫 How to reach me: solomonsanderson@outlook.com
 <!--
 **solomonsanderson/solomonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

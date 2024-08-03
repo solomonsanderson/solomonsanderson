@@ -1,5 +1,5 @@
 <h2 align = "center"> Hello there!👋</h2>
-<p align = 'center'> First year PhD student with the UK Quantum Technology Hub for Sensors and Timing. Focussing on atom interferometry for gravity gradiometry. Experienced in fabrication of ultra-high vacuum systems, magneto optical trapping, data analysis and software development.
+<p align = 'center'> I am a first year PhD student with the UK Quantum Technology Hub for Sensors and Timing. Focussing on atom interferometry for gravity gradiometry. Experienced in fabrication of ultra-high vacuum systems, magneto optical trapping, data analysis and software development.</p>
 
 - 🔭 I’m currently working with a NodeMCU and learning Rust to make a macro pad!
 - 🌱 I’m currently learning how to make a control panel using JS, HTML and CSS.

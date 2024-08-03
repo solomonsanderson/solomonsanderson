@@ -1,10 +1,9 @@
 <h2 align = "center"> Hello there!👋</h2>
-<p align = 'center'> I'm currently a Physics masters student at the University of Birmingham. I primarily write Python, <br> both as part of my degree and as a hobby. </p>
-Over the past 2 years I have worked with the Quantum Technology Hub for Sensors & Timing at the university of Birmingham. During my time in this role I worked with C++ and the Qt library to develop an interface for controlling a compact atom trap for outreach and industry events. During my second internship with the department I repackaged the magneto-optical trap system to streamline it, developing fibre optics and cold atoms skills. 
+<p align = 'center'> First year PhD student with the UK Quantum Technology Hub for Sensors and Timing. Focussing on atom interferometry for gravity gradiometry. Experienced in fabrication of ultra-high vacuum systems, magneto optical trapping, data analysis and software development.
 
 - 🔭 I’m currently working with a NodeMCU and learning Rust to make a macro pad!
 - 🌱 I’m currently learning how to make a control panel using JS, HTML and CSS.
-- 💬 Ask me about Python, C++, Atomic Physics and Atom Trapping!
+- 💬 Ask me about atom interferometery, magneto optical trapping and python!
 - 📫 How to reach me: solomonsanderson@outlook.com
 <!--
 **solomonsanderson/solomonsanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
